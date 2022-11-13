@@ -3,7 +3,7 @@ title: "Teaching experience 1"
 collection: teaching
 type: "Undergraduate course Manufacturing and Service Operation"
 permalink: 
-venue: "University 1, Department"
+venue: "Singapore University of Technology and Design, Pillar of Engineering Systems and Design"
 date: 01/2019-04/2019
 location: "Singapore"
 ---
