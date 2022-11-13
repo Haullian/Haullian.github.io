@@ -1,7 +1,7 @@
 ---
-title: "Teaching experience 1"
+title: "40.012: Manufacturing and Service Operations"
 collection: teaching
-type: "Undergraduate course Manufacturing and Service Operation"
+type: "Teaching Assistant"
 permalink: 
 venue: "Singapore University of Technology and Design, Pillar of Engineering Systems and Design"
 date: 01/2019-04/2019
