@@ -4,7 +4,7 @@ collection: teaching
 type: "Teaching Assistant"
 permalink: 
 venue: "Pillar of Engineering Systems and Design, Singapore University of Technology and Design"
-date: 01/2020-04/2020
+date: Spring 2020
 location: "Singapore"
 ---
 
