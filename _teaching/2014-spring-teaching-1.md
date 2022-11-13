@@ -3,8 +3,8 @@ title: "40.012: Manufacturing and Service Operations"
 collection: teaching
 type: "Teaching Assistant"
 permalink: 
-venue: "Singapore University of Technology and Design, Pillar of Engineering Systems and Design"
-date: 01/2019-04/2019
+venue: "Pillar of Engineering Systems and Design, Singapore University of Technology and Design"
+date: Spring 2019
 location: "Singapore"
 ---
 
